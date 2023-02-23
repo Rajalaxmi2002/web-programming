@@ -1,0 +1,49 @@
+<html>
+<head>
+<style>
+h1
+{
+text-align:center;
+color:red;
+}
+h2
+{
+text-align:left;
+colour:green;
+background:blue;
+}
+body
+{
+background:yellow;
+}
+p
+{
+border-style:solid;
+}
+</style>
+</head>
+<body>
+<h1>MY BIO DATA </h1>
+<h2>PERSONAL DETAILS</h2>
+<h1 test-align:center>NAME:RAJALAXMI CHOUDHURY</h1>
+<h2>EDUCATIONAL DETAILS</h2>
+<ul>
+<li>10th</li>
+<li>+2</li>
+<li>graduation</li>
+<li>mca</li>
+</ul>
+<h2>HOBBIES</h2>
+<ul>
+<li>cookies<li>
+<li>watching tv</li>
+<li>reading</li>
+<li>coding</li>
+</ul>
+<h2>CONTACT DETAILS</h2>
+<p>
+email id:-choudhuryrajalaxmi8@gmail.com<br>
+mobile no-7848969830
+</p>
+</body>
+</html>
